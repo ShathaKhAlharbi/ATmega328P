@@ -1,9 +1,3 @@
-/*
- * Mid prep.cpp
- *
- * Created: 11/04/2026 7:23:37 PM
- * Author : ashat
- */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
 #include <avr/delay.h>03-GPIO-Input-Output
