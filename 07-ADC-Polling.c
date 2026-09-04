@@ -1,10 +1,3 @@
-/*
- * Quiz.cpp
- *
- * Created: 06/05/2026 12:56:10 AM
- * Author : ashat
- */ 
-
 #define F_CPU 16000000UL 
 #include <avr/io.h>
 #include <stdio.h>
