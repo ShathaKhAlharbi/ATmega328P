@@ -1,8 +1,4 @@
 /*
- * GccApplication1.cpp
- *
- * Created: 20/02/2026 12:25:07 AM
- * Author : ashat
  * LED Lighting Project 
  */
 
